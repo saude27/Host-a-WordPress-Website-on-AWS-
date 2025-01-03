@@ -1,3 +1,6 @@
+2.![Alt text](2._Host_a_WordPress_Website_on_AWS.png)
+
+
 # Hosting a WordPress Website on AWS
 
 This project demonstrates hosting a WordPress website on AWS, leveraging a variety of AWS services to ensure high availability, scalability, and fault tolerance.
